@@ -1,0 +1,5 @@
+Temporal action localization:
+https://paperswithcode.com/task/action-recognition#papers-list
+
+Ideas:
+https://www.tensorflow.org/tutorials/video/video_classification
