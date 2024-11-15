@@ -2,3 +2,6 @@
 __pycache__/
 **.jpg
 **.mp4
+**.avi
+**movinet_a0_base
+**UCF101
